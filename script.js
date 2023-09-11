@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        twitter
 // @namespace   Violentmonkey Scripts
-// @match       https://twitter.com/home
+// @match       https://twitter.com/*
 // @grant       none
 // @version     1.0
 // @author      -
